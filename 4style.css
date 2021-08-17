@@ -1,0 +1,45 @@
+/*
+Cascading Style sheet - always takes style at the end
+Selector{
+	Property: Value;
+}
+
+.class - can have same value
+#id - unique for element
+* - for everything
+element
+element, element
+element element - element(later) inside element(former)
+element > element - former is parent of later
+element + element - later exactly after former ( not the parent )
+element:hover - 
+:last-child
+:first-child
+!important - overrides other cascading rules that come later
+*/
+
+body{
+	background-image: url(unsplash.jpg);
+	background-size: cover;
+}
+
+h1{
+	background-color: yellowgreen;
+	color: Red;
+	text-align: center;
+	border: 5px solid purple;
+	font-family: 'Big Shoulders Stencil Display', cursive;
+
+}
+
+/*
+line-height: 20px
+display:  inline-block;
+font-style:  italic;
+font-weight: bold;
+font-size: 150%;
+font-family: Georgia, "Times New Roman", ;
+
+
+
+*/
