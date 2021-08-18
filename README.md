@@ -14,3 +14,4 @@ git branch Branch_Name
 git checkout Branch_Name
 
 git merge master
+git pull --rebase origin master 
