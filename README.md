@@ -22,4 +22,9 @@ git mergetool
 git rebase --continue
 //then pus to central repo
 
+git remote -v
+git remote add upstream <link of forked repository>
+git pull upstream master
+
+
 
