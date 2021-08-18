@@ -14,4 +14,12 @@ git branch Branch_Name
 git checkout Branch_Name
 
 git merge master
+
 git pull --rebase origin master 
+git mergetool
+//resolve conflicts
+
+git rebase --continue
+//then pus to central repo
+
+
