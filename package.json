@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hchowdha/TestRepo/issues"
   },
-  "homepage": "https://github.com/hchowdha/TestRepo#readme"
+  "homepage": "https://github.com/hchowdha/TestRepo#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
