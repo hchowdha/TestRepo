@@ -1,0 +1,22 @@
+NPM - is registry for JS code
+
+NODE is to run JS without browser
+
+//check versions
+npm -v
+node -v
+
+//to install latest version of npm
+npm install npm@latest -g 
+
+//creates package.json 
+npm init
+
+//INstall live-server
+run command: live-server
+to resolve error of restricted access: run : Set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
+as admin in powershell ISE x86
+
+dependencies & Dev dependencies
+
+
